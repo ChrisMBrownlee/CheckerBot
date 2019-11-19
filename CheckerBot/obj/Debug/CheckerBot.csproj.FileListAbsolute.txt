@@ -1,0 +1,6 @@
+C:\Users\MCA\source\repos\CheckerBot\CheckerBot\bin\Debug\CheckerBot.exe.config
+C:\Users\MCA\source\repos\CheckerBot\CheckerBot\bin\Debug\CheckerBot.exe
+C:\Users\MCA\source\repos\CheckerBot\CheckerBot\bin\Debug\CheckerBot.pdb
+C:\Users\MCA\source\repos\CheckerBot\CheckerBot\obj\Debug\CheckerBot.csprojAssemblyReference.cache
+C:\Users\MCA\source\repos\CheckerBot\CheckerBot\obj\Debug\CheckerBot.exe
+C:\Users\MCA\source\repos\CheckerBot\CheckerBot\obj\Debug\CheckerBot.pdb
